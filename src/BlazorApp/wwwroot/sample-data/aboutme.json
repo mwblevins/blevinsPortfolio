@@ -1,12 +1,12 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "Skilled Software Developer with a focus on AR and Simulation technologies. Specifically the intersection of AR and Education",
   "skills": [
     "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "Unity",
+    "C# .NET",
+    "SQL",
+    "Python",
+    "C"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "I am passionate on collaborting with a like minded group of people who are interested in pushing the needle and creating new experiences to drive us forward"
 }
