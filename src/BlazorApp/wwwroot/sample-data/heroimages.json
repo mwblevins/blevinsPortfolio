@@ -1,17 +1,17 @@
 [
   {
     "name": "home",
-    "src": "images/woman-with-tablet.jpg",
-    "alt": "woman with glasses holding a tablet"
+    "src": "images/michaelblevinsheadshot.jpg",
+    "alt": "my first headshot!"
   },
   {
     "name": "about",
-    "src": "images/motion-background.jpg",
-    "alt": "gray abstract background"
+    "src": "images/websitepcbackground.jpg",
+    "alt": "single line pc and mouse"
   },
   {
     "name": "portfolio",
-    "src": "images/design-desk.jpeg",
-    "alt": "desktop with books and laptop"
+    "src": "images/websiteprojectsimage.png",
+    "alt": "simple pc and projects"
   }
 ]
