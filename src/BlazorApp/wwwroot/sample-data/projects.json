@@ -1,8 +1,9 @@
 [
   {
     "title": "InsiderInfo",
-    "description": "Created a web app to predict what a given stock would do in the near future. Utilized machine learning and data analysis from APIs to provide insights and information. https://youtu.be/LJ5vHDeArxc",
-    "url": "https://github.com/LW068/InsiderInfo"
+    "description": "Created a web app to predict what a given stock would do in the near future. Utilized machine learning and data analysis from APIs to provide insights and information.",
+    "url": "https://github.com/LW068/InsiderInfo",
+    "youtube_link": "https://youtu.be/LJ5vHDeArxc"
   },
   {
     "title": "AR Business Card",
