@@ -1,8 +1,8 @@
 [
   {
-    "title": "AirBNB Clone",
-    "description": "Developed a clone of AirBNB website using HTML, CSS, and Javascript",
-    "url": "https://github.com/mwblevins/holbertonschool-AirBnB_clone_v4"
+    "title": "InsiderInfo",
+    "description": "Created a web app to predict what a given stock would do in the near future. Utilized machine learning and data analysis from APIs to provide insights and information. https://youtu.be/LJ5vHDeArxc",
+    "url": "https://github.com/LW068/InsiderInfo"
   },
   {
     "title": "AR Business Card",
@@ -11,7 +11,7 @@
   },
   {
     "title": "My Portfolio Site",
-    "description": "Created from Microsoft's resume workshop using Blazor and C#, and deployed to GitHub pages.",
+    "description": "The Site that you are currently on! Created from Microsoft's resume workshop using Blazor and C#, and deployed to GitHub pages.",
     "url": null
   },
   {
